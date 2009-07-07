@@ -1,0 +1,2 @@
+{'src/*', [debug_info, {outdir, './ebin'}]}.
+{'vendor/mochiweb/src/*', [debug_info, {outdir, './ebin'}]}.
